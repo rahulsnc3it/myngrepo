@@ -1,3 +1,6 @@
+
+[![Build status](https://dev.azure.com/c3itorg/Angular%20Green%20House%20Automation/_apis/build/status/Angular%20Green%20House%20Automation-CI)](https://dev.azure.com/c3itorg/Angular%20Green%20House%20Automation/_build/latest?definitionId=1)
+
 # Myngrepo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.5.
